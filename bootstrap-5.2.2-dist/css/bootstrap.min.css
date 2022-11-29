@@ -12275,4 +12275,12 @@ textarea.form-control-lg {
     width: 100%;
 }
 
+.graybg {
+background-color: #d3d3d3;
+}
+
+.khazix {
+color:purple;
+}
+
 /*# sourceMappingURL=bootstrap.min.css.map */
